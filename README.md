@@ -6,7 +6,7 @@ Insta-News, Flask ve Bootstrap kullanarak NewsAPI üzerinden güncel haberlere h
 ### Özellikler
 - Haberleri anahtar kelimeye göre arama
 - Bootstrap kart tasarımı ve duyarlı arayüz
-- Geçersiz veya istenmeyen kaynakların filtrelenmesi ("Yahoo" ve "removed" içerikleri)
+- Geçersiz veya istenmeyen kaynakların filtrelenmesi.
 
 ### Kullanılan Teknolojiler
 - Python 3
@@ -41,7 +41,7 @@ Insta-News is a lightweight Flask + Bootstrap web app that fetches the latest he
 ### Features
 - Keyword-based news search
 - Responsive Bootstrap card layout
-- Filters out unwanted sources ("Yahoo" and titles containing "removed")
+- Filters out unwanted sources.
 
 ### Tech Stack
 - Python 3
